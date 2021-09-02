@@ -1,0 +1,49 @@
+#i81{
+  border-color:blue;
+  width:450px;
+
+}
+
+ #i82:hover{
+   border-color: #71df97;
+   width: 720px;
+   border-radius: 15px;
+
+ }
+
+#i81:hover{
+  border-color: #71df97;
+  width: 720px;
+  border-radius: 15px;
+
+}
+
+#i82{
+  border-color: #71df97;
+  width:450px;
+ border-radius: 15px;
+
+}
+.headings{
+  font-style: italic;
+}
+.prices{
+  font-style: italic;
+}
+
+a:visited {
+  color: orange;
+}
+
+h1{
+  font-family: arial black;
+}
+
+#submit-btn:hover{
+  background-color: orange;
+  color: white;
+}
+
+input:focus{
+  background-color: orange;
+}
